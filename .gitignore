@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+*.mp4
+*.avi
+
+*.pt
+*.onnx
+
+runs/
