@@ -31,7 +31,7 @@ O vídeo original utilizado no projeto é muito grande para o GitHub. Os resulta
 
 > **Nota:** Após baixar, salve o arquivo na pasta `Data/` com o nome `people.mp4`.
 
-## 📦 Instalação
+## Instalação
 
 1. Clone o repositório:
    ```bash
